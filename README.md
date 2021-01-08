@@ -1,4 +1,4 @@
 # testeStrongway
-Teste aplicado pela empresa Strongway/2019.
+Teste aplicado pela empresa Strongway.
 
 https://thaynacostaf.github.io/testeStrongway/
